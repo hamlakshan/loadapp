@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.load.app</groupId>
 	<artifactId>loadapp</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>loadapp</name>
 	<description>Service for load testing</description>
 
@@ -36,7 +36,7 @@
 		<url>https://github.com/hamlakshan/loadapp.git</url>
 		<developerConnection>scm:git:https://github.com/hamlakshan/loadapp.git</developerConnection>
 		<connection>scm:git:https://github.com/hamlakshan/loadapp.git</connection>
-		<tag>v1.0.0</tag>
+		<tag>V1.0.0</tag>
 	</scm>
 
 	<dependencies>
