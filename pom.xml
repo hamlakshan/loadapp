@@ -23,12 +23,12 @@
 		<snapshotRepository>
 			<id>wso2Telco.snapshots</id>
 			<name>Snapshot repo</name>
-			<url>file:///home/manoj/Desktop/request-router</url>
+			<url>file:///home/manoj/WSO2TelcoProjects/WSO2Telco4/release/snapshot</url>
 		</snapshotRepository>
 		<repository>
 			<id>wso2telco.releases</id>
 			<name>release repo</name>
-			<url>file:///home/manoj/Desktop/request-router/releases</url>
+			<url>file:///home/manoj/WSO2TelcoProjects/WSO2Telco4/release/release</url>
 		</repository>
 	</distributionManagement>
 
